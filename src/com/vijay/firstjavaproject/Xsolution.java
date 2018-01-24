@@ -7,6 +7,7 @@ public class Xsolution {
 		//added comment for the code
 		System.out.println("the first java program");
 		System.out.println("second print statement");
+		System.out.println("third print statement");
 		
 	}
 	
